@@ -199,12 +199,12 @@ public class Assignment4
 		}	
 		
 	}
-		//hello world
+		
 	public static void average(int sum, int counter) {
 		double result = 0;
 		
 		result = sum / counter;
-		System.out.printf("The average of the numbers are %.2f", result);
+		System.out.printf("The average is %.2f", result);
 
 	}
 	
